@@ -51,3 +51,7 @@ p {
     display: inline-block;
     flex-direction: column;
 }
+.nav-bar img {
+    height: 80px;
+    width: auto;
+}
