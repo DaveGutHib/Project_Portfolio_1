@@ -27,3 +27,11 @@ p {
     width: 100%;
     justify-content: flex-end;
 }
+.nav-bar a {
+    float: left;
+    font-size: 25px;
+    padding: 10px 10px;
+    text-align: center;
+    color: #23274d;
+    text-decoration: none;
+}
