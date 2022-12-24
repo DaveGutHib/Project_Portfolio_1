@@ -201,3 +201,9 @@ button:hover {
 #contact-thank-you a:hover {
     color: lightgreen;
 }
+.text-center {
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
