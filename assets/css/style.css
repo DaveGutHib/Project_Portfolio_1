@@ -140,3 +140,14 @@ hr {
     margin: 5px 0;
 
 }
+/* Contact form */
+
+/* styled to match footer and header colors */
+#contact-form {
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: rgb(1, 139, 237);
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
