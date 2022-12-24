@@ -198,3 +198,6 @@ button:hover {
 #contact-thank-you a:visited {
     color: pink;
 }
+#contact-thank-you a:hover {
+    color: lightgreen;
+}
