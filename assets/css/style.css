@@ -87,3 +87,8 @@ p {
     margin: auto;
     padding: 0;
 }
+div p {
+    /* position:relative; */
+    width: 320px;
+    text-align: justify;
+}
