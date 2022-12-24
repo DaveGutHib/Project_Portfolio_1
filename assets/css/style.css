@@ -165,3 +165,12 @@ textarea {
     margin-bottom: 16px;
     resize: vertical
 }
+/* styled to give 3d effect on contact form submit button */
+#contact-form button[type=submit] {
+    background-color: white;
+    padding: 12px 20px;
+    border: solid;
+    border-style: groove;
+    border-radius: 4px;
+    cursor: default;
+}
