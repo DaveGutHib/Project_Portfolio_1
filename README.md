@@ -1,5 +1,9 @@
-#Commodore 64 - 40 year celebration
+# Commodore 64 - 40 year celebration
 
+This is fan website celebrating and going into detail on the legendary microcomputer, the Commodore 64!
+View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/) 
+
+![Mockup image of website on different devices](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/Mockup.PNG)
 
 
 # Table of Contents
@@ -8,7 +12,6 @@
 10. [References](#references)
 
 ## Intro
-
 
 
 
