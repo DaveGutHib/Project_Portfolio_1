@@ -219,3 +219,10 @@ footer {
 .socials li {
     display: inline;
 }
+
+.socials i {
+    font-size: 300%;
+    margin: 5%;
+    padding: 2%;
+    color: black;
+}
