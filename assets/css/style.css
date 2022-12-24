@@ -35,3 +35,8 @@ p {
     color: #23274d;
     text-decoration: none;
 }
+
+.nav-bar a:hover {
+    background-color: rgb(1, 139, 237);
+    color: #00ffff;
+}
