@@ -1,8 +1,5 @@
-![alt text: Commodore 64 "Big C" Logo](https://github.com/DaveGutHib/PP1/blob/main/C64%20Logo%20Big%20Vector.png?raw=true)
-
 #Commodore 64 - 40 year celebration
 
-![alt text: Commodore 64 startup screen animated gif](https://github.com/DaveGutHib/PP1/blob/main/C64_startup_animiert.gif?raw=true)
 
 
 # Table of Contents
