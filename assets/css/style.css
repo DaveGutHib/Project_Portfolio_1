@@ -183,3 +183,11 @@ button:hover {
     color: black;
 
 }
+#contact-thank-you {
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: rgb(1, 139, 237);
+    padding: 20px;
+    margin-bottom: 20px;
+    color: black;
+}
