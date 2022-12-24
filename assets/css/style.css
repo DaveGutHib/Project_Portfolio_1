@@ -55,3 +55,9 @@ p {
     height: 80px;
     width: auto;
 }
+
+#main-logo {
+    float: inline-start;
+    font-size: 250%;
+
+}
