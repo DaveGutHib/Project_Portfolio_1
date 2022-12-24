@@ -61,3 +61,19 @@ p {
     font-size: 250%;
 
 }
+.gallery {
+    display: flex;
+    flex-direction: column;
+    /* width:320px; */
+    /* flex-wrap:wrap; */
+    /* justify-content:last baseline; */
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+
+}
+.gallery-items {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+}
