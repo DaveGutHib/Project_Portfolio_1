@@ -116,3 +116,21 @@ div p {
     }
 
 }
+#hero-text h2 {
+    color: white;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    font-size: 120%;
+    letter-spacing: 6px;
+    padding-top: 25px;
+    padding-left: 10px;
+    width: 200px;
+    height: 120px;
+    bottom: 40px;
+    right: 140px;
+    position: absolute;
+    background-color: rgba(0, 255, 255, 0.5);
+
+
+
+}
