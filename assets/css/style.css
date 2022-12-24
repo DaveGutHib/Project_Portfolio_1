@@ -174,3 +174,8 @@ textarea {
     border-radius: 4px;
     cursor: default;
 }
+/* apply different color when hovered over with mouse */
+button:hover {
+
+    color: green;
+}
