@@ -207,3 +207,12 @@ button:hover {
     flex-flow: column;
     align-items: center;
 }
+.text-center p {
+    text-align: inherit;
+}
+footer {
+    /* display: flex; */
+    height: 200px;
+    /* justify-content: flex-end; */
+
+}
