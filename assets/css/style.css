@@ -216,3 +216,6 @@ footer {
     /* justify-content: flex-end; */
 
 }
+.socials li {
+    display: inline;
+}
