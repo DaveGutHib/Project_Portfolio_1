@@ -134,3 +134,9 @@ div p {
 
 
 }
+hr {
+    border-top: 3px solid #00ffff;
+    width: 100%;
+    margin: 5px 0;
+
+}
