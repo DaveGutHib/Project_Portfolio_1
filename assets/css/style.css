@@ -92,3 +92,9 @@ div p {
     width: 320px;
     text-align: justify;
 }
+#hero-larger {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
