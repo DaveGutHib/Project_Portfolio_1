@@ -195,3 +195,6 @@ button:hover {
 #contact-thank-you a {
     color: lightgrey;
 }
+#contact-thank-you a:visited {
+    color: pink;
+}
