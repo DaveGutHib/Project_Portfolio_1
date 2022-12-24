@@ -106,3 +106,13 @@ div p {
     animation-duration: 8s;
     animation-fill-mode: forwards;
 }
+@keyframes hero-zoom-in {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.5);
+    }
+
+}
