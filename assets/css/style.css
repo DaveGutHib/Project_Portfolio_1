@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 header {
     display: flex;
 }
+
 header img {
     height: 80px;
     width: auto;
 }
+
 body {
     margin-left: 30px;
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #00ffff;
 }
+
 p {
     font-size: medium;
 }
@@ -27,6 +31,7 @@ p {
     width: 100%;
     justify-content: flex-end;
 }
+
 .nav-bar a {
     float: left;
     font-size: 25px;
@@ -51,6 +56,7 @@ p {
     display: inline-block;
     flex-direction: column;
 }
+
 .nav-bar img {
     height: 80px;
     width: auto;
@@ -61,6 +67,7 @@ p {
     font-size: 250%;
 
 }
+
 .gallery {
     display: flex;
     flex-direction: column;
@@ -72,32 +79,38 @@ p {
     height: auto;
 
 }
+
 .gallery-items {
     display: flex;
     flex-direction: row;
     width: 90%;
 }
+
 .gallery-items img {
     width: 50%;
     height: auto;
     padding-right: 50px;
     padding-bottom: 10px;
 }
+
 .gallery-items p {
     margin: auto;
     padding: 0;
 }
+
 div p {
     /* position:relative; */
     width: 320px;
     text-align: justify;
 }
+
 #hero-larger {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -106,6 +119,7 @@ div p {
     animation-duration: 8s;
     animation-fill-mode: forwards;
 }
+
 @keyframes hero-zoom-in {
     from {
         transform: scale(1);
@@ -116,6 +130,7 @@ div p {
     }
 
 }
+
 #hero-text h2 {
     color: white;
     font-family: Roboto, sans-serif;
@@ -134,12 +149,14 @@ div p {
 
 
 }
+
 hr {
     border-top: 3px solid #00ffff;
     width: 100%;
     margin: 5px 0;
 
 }
+
 /* Contact form */
 
 /* styled to match footer and header colors */
@@ -151,6 +168,7 @@ hr {
     margin-bottom: 20px;
     color: black;
 }
+
 /* styling for form elements */
 input[type=text],
 input[type=email],
@@ -165,6 +183,7 @@ textarea {
     margin-bottom: 16px;
     resize: vertical
 }
+
 /* styled to give 3d effect on contact form submit button */
 #contact-form button[type=submit] {
     background-color: white;
@@ -174,15 +193,18 @@ textarea {
     border-radius: 4px;
     cursor: default;
 }
+
 /* apply different color when hovered over with mouse */
 button:hover {
 
     color: green;
 }
+
 #contact-form h2 {
     color: black;
 
 }
+
 #contact-thank-you {
     margin-top: 50px;
     border-radius: 5px;
@@ -195,27 +217,33 @@ button:hover {
 #contact-thank-you a {
     color: lightgrey;
 }
+
 #contact-thank-you a:visited {
     color: pink;
 }
+
 #contact-thank-you a:hover {
     color: lightgreen;
 }
+
 .text-center {
     text-align: center;
     display: flex;
     flex-flow: column;
     align-items: center;
 }
+
 .text-center p {
     text-align: inherit;
 }
+
 footer {
     /* display: flex; */
     height: 200px;
     /* justify-content: flex-end; */
 
 }
+
 .socials li {
     display: inline;
 }
