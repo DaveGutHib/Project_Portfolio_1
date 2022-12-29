@@ -30,7 +30,12 @@ ADDDD SCREENSHOT
 
 ADDDD SCREENSHOT
 
+## Landing page
+- The landing page will have a large hero image to be visually attractive to the visitor
+- It will feature an animated zoom effect featuring a different C64 logo to the stylised one used on the top-left of every page.
+- Since this one will show the full brand name "Commodore 64" and the rainbow colour swash that was originally featured on the microcomputer itself, this will help users to recognise the content of the site even if they are not familiar with the stylised C64 logo
 
+ADDD
 
 2022 marks the 40 year anniversary of the release of the Commodore 64, an incredibly important and influential micro-computer.
 
