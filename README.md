@@ -90,14 +90,35 @@ This "thank you" page will feature additional contact details for the webmaster
 
 - Javascript on contact page to send email to webmaster
 
-- Disqus integration to allow website comments
+- Disqus integration to allow user comments on individual sections
+
+## Design
+
+Balsamic wireframes for site design
+ADDD home
+
+## Testing
+
+All of the main pages had their code validated on the W3C HTML checker
+
+### Home Page
+![W3C Validation of Home page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/index_html_w3c_validated.PNG)
+
+### Music Page
+![W3C Validation of Home page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/index_html_w3c_validated.PNG)
+
+
+
+Jigsaw Validation
+
+Lighthouse Performance Testing
+
+
 
 ## References
 
-C64 red  #ff0000 / rgb 255,0,0
-C64 blue #018bed /  rgb 1,139,237
 
-[Animated C64 Start Screen GIF from Wikipedia ](https://en.wikipedia.org/wiki/Commodore_64#History)
+
 
 [C64 vectorised logo by Lolman4408 on DeviantArt ](https://www.deviantart.com/lolman4408/art/Commodore-64-logo-vectorized-694733898)
 
