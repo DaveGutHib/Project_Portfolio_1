@@ -13,14 +13,15 @@ View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/)
 10. [References](#references)
 
 ## Features
+---
 
 ### Navigation Menu
-- This will link to the main page, music information page and contact page, while being responsive on all devices
-- Will allow easy navigation between all the parts of the website on devices of any size
+- This will link to the main page, music information page and contact page, while being responsive on all devices.
+- Will allow easy navigation between all the parts of the website on devices of any size.
 
 ADDDD SCREENSHOT
 
-### Footer
+### Social media Footer
 - Will contain icons which link to the various social media websites, and open in new tabs. Aria-labels will facilitate the use of screen-readers for the visually impaired.
 
 ADDDD SCREENSHOT
@@ -31,23 +32,70 @@ ADDDD SCREENSHOT
 ADDDD SCREENSHOT
 
 ## Landing page
-- The landing page will have a large hero image to be visually attractive to the visitor
+---
+- The landing page will have a large hero image to be visually attractive to the visitor.
 - It will feature an animated zoom effect featuring a different C64 logo to the stylised one used on the top-left of every page.
-- Since this one will show the full brand name "Commodore 64" and the rainbow colour swash that was originally featured on the microcomputer itself, this will help users to recognise the content of the site even if they are not familiar with the stylised C64 logo
+- Since this one will show the full brand name "Commodore 64" and the rainbow colour swash that was originally featured on the microcomputer itself, this will help users to recognise the content of the site even if they are not familiar with the stylised C64 logo.
 
 ADDD
 
-2022 marks the 40 year anniversary of the release of the Commodore 64, an incredibly important and influential micro-computer.
+### Explanatory text
 
-To celebrate this landmark occasion I wanted to make a website to celebrate it and it's uniquely powerful sound chip.
+- Will attempt to catch the users attention with the main reasons behind the website and some interesting information.
 
-C64 red  #ff0000 / rgb 255,0,0
-C64 blue #018bed /  rgb 1,139,237
+ADDD
+
+### Image gallery of famous games
+
+- Will show users a collection of well known C64 games as well as a brief text description of each one.
+- This gallery will be fully responsive on a devices and resize the images based on the screensize it is being viewed on.
 
 
+
+## Music page
+---
+
+-  Will feature a detailed explanation of the C64's most uniquely powerful attribute: The SID music chip
+- Also will include a variety of visual and audio media: Pictures, Music and Video.
+- External links will be included at the bottom of the music page which all open in new tabs. These links will point to the most relevant modern resources if users wish to continue learning about the topic.
+
+## Contact page
+---
+
+- A form will be feature on the page to allow the users to contact the webmaster. It will have the following fields
+1. First name which will require the input type text
+2. Last name which will require the input type text
+3. Email which will require the input type email
+4. Message which is a textarea input field
+
+ADDD
+
+Once the message has been successfully submitted, a confirmation page will appear
+
+ADDD
+
+This "thank you" page will not be accessible from the main navigation bar, and is intended only to appear after completion of the contact form
+
+This "thank you" page will feature additional contact details for the webmaster
+
+## Existing features
+
+- Responsive design
+- Colour scheme themed to the subject matter
+- Responsive gallery
+- Contact form and thank you page
+- Music information and playable media
+
+## Future features
+
+- Javascript on contact page to send email to webmaster
+
+- Disqus integration to allow website comments
 
 ## References
 
+C64 red  #ff0000 / rgb 255,0,0
+C64 blue #018bed /  rgb 1,139,237
 
 [Animated C64 Start Screen GIF from Wikipedia ](https://en.wikipedia.org/wiki/Commodore_64#History)
 
