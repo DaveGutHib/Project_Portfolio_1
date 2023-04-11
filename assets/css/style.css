@@ -26,7 +26,6 @@ p {
     border-color: rgb(255, 0, 0);
     text-align: right;
     display: flex;
-    /*make responsive on different screen sizes*/
     align-items: center;
     width: 100%;
     justify-content: flex-end;
@@ -71,9 +70,6 @@ p {
 .gallery {
     display: flex;
     flex-direction: column;
-    /* width:320px; */
-    /* flex-wrap:wrap; */
-    /* justify-content:last baseline; */
     align-items: center;
     max-width: 100%;
     height: auto;
@@ -99,7 +95,7 @@ p {
 }
 
 div p {
-    /* position:relative; */
+    
     width: 320px;
     text-align: justify;
 }
@@ -238,10 +234,7 @@ button:hover {
 }
 
 footer {
-    /* display: flex; */
     height: 200px;
-    /* justify-content: flex-end; */
-
 }
 
 .socials li {
