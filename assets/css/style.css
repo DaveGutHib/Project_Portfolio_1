@@ -100,6 +100,13 @@ div p {
     text-align: justify;
 }
 
+.figure-images {
+    width: 50%;
+    height: auto;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
 #hero-larger {
     height: 600px;
     width: 100%;
