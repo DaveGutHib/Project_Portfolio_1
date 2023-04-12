@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/* Flex display for header */
+
 header {
     display: flex;
 }
+
+/* Header image dimensions */
 
 header img {
     height: 80px;
     width: auto;
 }
+
+/* Font choice and background colour for main body */
 
 body {
     margin-left: 30px;
@@ -16,16 +22,20 @@ body {
     background-color: #00ffff;
 }
 
+/* Set font size for text paragraph */
+
 p {
     font-size: medium;
 }
 
+/* Move the error text to center screen */
 .error_404{
     text-align: center;
 }
 
 .nav-bar {
     overflow: hidden;
+    border-style: solid;
     border: 5px;
     border-color: rgb(255, 0, 0);
     text-align: right;

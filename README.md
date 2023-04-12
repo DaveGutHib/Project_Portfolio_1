@@ -4,7 +4,7 @@ This will be a fan website celebrating and going into detail on the legendary mi
 
 View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/) 
 
-![Mockup image of website on different devices](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/Mockup.PNG)
+![Mockup image of website on different devices](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/Mockup.png)
 
 
 ## Features
@@ -14,18 +14,18 @@ View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/)
 - This will link to the main page, music information page and contact page, while being responsive on all devices.
 - Will allow easy navigation between all the parts of the website on devices of any size.
 
-![Nav Bar](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_navbar.PNG)
+![Nav Bar](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_navbar.png)
 
 
 ### Social media Footer
 - Will contain icons which link to the various social media websites, and open in new tabs. Aria-labels will facilitate the use of screen-readers for the visually impaired.
 
-![Footer](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_footer.PNG)
+![Footer](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_footer.png)
 
 ### Logo Icon at the top of every page
 - A stylised C64 logo will be placed at the top-left of every page, which allows thematic consistency and is also what the website colourscheme is based on.
 
-![Logo](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_logo.PNG)
+![Logo](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_logo.png)
 
 ## Index page
 ---
@@ -33,13 +33,13 @@ View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/)
 - It will feature an animated zoom effect featuring a different C64 logo to the stylised one used on the top-left of every page.
 - Since this one will show the full brand name "Commodore 64" and the rainbow colour swash that was originally featured on the microcomputer itself, this will help users to recognise the content of the site even if they are not familiar with the stylised C64 logo.
 
-![Hero Image](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_hero.PNG)
+![Hero Image](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_hero.png)
 
 ### Explanatory text
 
 - Will attempt to catch the users attention with the main reasons behind the website and some interesting information.
 
-![Text](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_text.PNG)
+![Text](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_text.png)
 
 ### Image gallery of famous games
 
@@ -47,10 +47,10 @@ View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/)
 - This gallery will be fully responsive on a devices and resize the images based on the screensize it is being viewed on.
 
 Desktop
-![Gallery Desktop](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_gallery_desktop.PNG)
+![Gallery Desktop](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_gallery_desktop.png)
 
 Mobile
-![Gallery Mobile](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_gallery_mobile.PNG)
+![Gallery Mobile](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/home_gallery_mobile.png)
 
 
 
@@ -61,7 +61,7 @@ Mobile
 - Also will include a variety of visual and audio media: Pictures, Music and Video.
 - External links will be included at the bottom of the music page which all open in new tabs. These links will point to the most relevant modern resources if users wish to continue learning about the topic.
 
-![Music](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/music.PNG)
+![Music](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/music.png)
 
 ## Contact page
 ---
@@ -72,15 +72,23 @@ Mobile
 3. Email which will require the input type email
 4. Message which is a textarea input field
 
-![Contact](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/contact.PNG)
+![Contact](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/contact.png
+)
 
 Once the message has been successfully submitted, a confirmation page will appear
 
-![Thank you](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/thankyou.PNG)
+![Thank you](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/thankyou.png)
 
 This "thank you" page will not be accessible from the main navigation bar, and is intended only to appear after completion of the contact form
 
 This "thank you" page will feature additional contact details for the webmaster
+
+## 404 Error Page
+
+If the user types an incorrect site url, they will be redirected to a custom 404 error page
+
+![Error 404](C:\Users\Client 7.22 ED\Documents\GitHub\Project_Portfolio_1\assets\images\Error_404_Example.png)
+
 
 ## Existing features
 
@@ -89,6 +97,7 @@ This "thank you" page will feature additional contact details for the webmaster
 - Responsive gallery
 - Contact form and thank you page
 - Music information and playable media
+- Error 404 redirection
 
 ## Future features
 
@@ -109,28 +118,28 @@ Balsamic wireframes for site design
 All of the main HTML pages had their code validated on the W3C HTML checker
 
 ### Home Page
-![W3C Validation of Home page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/index_html_w3c_validated.PNG)
+![W3C Validation of Home page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/index_html_w3c_validated.png)
 
 ### Music Page
-![W3C Validation of Music page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/music_html_w3c_validated.PNG)
+![W3C Validation of Music page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/music_html_w3c_validated.png)
 
 ### Contact Page
-![W3C Validation of Contact page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/contact_html_w3c_validated.PNG)
+![W3C Validation of Contact page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/contact_html_w3c_validated.png)
 
 ### Thank you Page
-![W3C Validation of Contact page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/thankyou_html_w3c_validated.PNG)
+![W3C Validation of Contact page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/thankyou_html_w3c_validated.png)
 
 ### CSS
 
 The CSS was validated using the Jigsaw Validator
-![Jigsaw Validation of CSS page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/css_jigsaw_validated.PNG)
+![Jigsaw Validation of CSS page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/css_jigsaw_validated.png)
 
 
 ### Lighthouse Performance Testing
 
 The website received all green ratings on the Lighthouse Performance test
 
-![Lighthouse performance rating of site](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/Lighthouse_report.PNG)
+![Lighthouse performance rating of site](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/Lighthouse_report.png)
 
 
 
