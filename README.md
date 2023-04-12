@@ -148,3 +148,6 @@ The website received all green ratings on the Lighthouse Performance test
 [How-to Geek Commodore article](https://www.howtogeek.com/820304/the-best-selling-pc-of-all-time-commodore-64-turns-40/)
 
 [Commodore in-game images](http://www.cbmitapages.it/c64/games/games.htm)
+
+[.htaccess file for 404 page](https://www.inmotionhosting.com/support/website/set-custom-404-page/)
+
