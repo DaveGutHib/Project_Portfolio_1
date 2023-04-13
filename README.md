@@ -89,6 +89,23 @@ If the user types an incorrect site url, they will be redirected to a custom 404
 
 ![Error 404](C:\Users\Client 7.22 ED\Documents\GitHub\Project_Portfolio_1\assets\images\Error_404_Example.png)
 
+## Favicon
+
+Since such a high quality C64 vector logo was available, this was turned into a favicon and put on all of the pages
+
+This was tested to ensure it displayed correctly on each page
+
+![Favicon on index page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/favicon_id.png)
+
+![Favicon on music page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/favicon_ms.png)
+
+![Favicon on contact page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/favicon_ct.png)
+
+![Favicon on thankyou page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/favicon_ty.png)
+
+![Favicon on 404 page](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/favicon_404.png)
+
+
 
 ## Existing features
 
@@ -98,6 +115,7 @@ If the user types an incorrect site url, they will be redirected to a custom 404
 - Contact form and thank you page
 - Music information and playable media
 - Error 404 redirection
+- Favicon
 
 ## Future features
 
@@ -159,4 +177,7 @@ The website received all green ratings on the Lighthouse Performance test
 [Commodore in-game images](http://www.cbmitapages.it/c64/games/games.htm)
 
 [.htaccess file for 404 page](https://www.inmotionhosting.com/support/website/set-custom-404-page/)
+
+[Favicon generated here](https://favicon.io/)
+
 
