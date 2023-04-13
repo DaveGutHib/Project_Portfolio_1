@@ -4,7 +4,7 @@ This will be a fan website celebrating and going into detail on the legendary mi
 
 View the live site [here](https://daveguthib.github.io/Project_Portfolio_1/) 
 
-![Mockup image of website on different devices](docs/Mockup.png)
+![Mockup image of website on different devices](https://raw.githubusercontent.com/DaveGutHib/Project_Portfolio_1/main/docs/mockup.png)
 
 
 ## Features
