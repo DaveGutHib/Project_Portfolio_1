@@ -33,6 +33,7 @@ p {
     text-align: center;
 }
 
+/* General Nav bar styling  */
 .nav-bar {
     overflow: hidden;
     border-style: solid;
@@ -46,6 +47,7 @@ p {
     justify-content: flex-end;
 }
 
+/* Nav bar anchor styling  */
 .nav-bar a {
     float: left;
     font-size: 25px;
@@ -55,11 +57,13 @@ p {
     text-decoration: none;
 }
 
+/* Lighten nav bar anchor colour on mouse hover  */
 .nav-bar a:hover {
     background-color: rgb(1, 139, 237);
     color: #00ffff;
 }
 
+/* Styling for Nav bar list items */
 .nav-bar li {
     list-style: none;
     background-color: #00ffff;
@@ -71,16 +75,8 @@ p {
     flex-direction: column;
 }
 
-.nav-bar img {
-    height: 80px;
-    width: auto;
-}
 
-#main-logo {
-    float: inline-start;
-    font-size: 250%;
-
-}
+/* Media responsiveness styling */
 
 @media only screen and (max-width: 600px) {
     .gallery-items {
@@ -92,6 +88,8 @@ p {
         padding: 0 5px;
     }
 }
+
+/* Styling rules for game image gallery */
 
 .gallery {
     display: flex;
@@ -272,7 +270,10 @@ footer {
 
 .socials li {
     display: inline;
+    padding: 0 10px;
 }
+
+/* Styling for the social media icons in the footer */
 
 .socials i {
     font-size: 300%;
