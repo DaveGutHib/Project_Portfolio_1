@@ -124,12 +124,18 @@ div p {
     text-align: justify;
 }
 
+/* Specific styling for media on the music page, using figcaptions */
+
 .figure-images {
     width: 50%;
     height: auto;
     padding-right: 50px;
     padding-bottom: 10px;
 }
+
+/* Hero image */
+
+/* Styling and positional information for the hero image */
 
 #hero-larger {
     height: 600px;
@@ -147,6 +153,8 @@ div p {
     animation-fill-mode: forwards;
 }
 
+/* Animation for the size of the hero image as it zooms in */
+
 @keyframes hero-zoom-in {
     from {
         transform: scale(1);
@@ -157,6 +165,8 @@ div p {
     }
 
 }
+
+/* Styling for the text within the hero image, under the zooming image */
 
 #hero-text h2 {
     color: white;
