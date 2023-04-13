@@ -36,7 +36,8 @@ p {
 .nav-bar {
     overflow: hidden;
     border-style: solid;
-    border: 5px;
+    border-width: 5px;
+    margin: 5px;
     border-color: rgb(255, 0, 0);
     text-align: right;
     display: flex;
